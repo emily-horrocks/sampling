@@ -16,30 +16,37 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#`1
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The survey aims to uncover key factors affecting job satisfaction and retention for entry and lower-level employees at the company. The focus will be on understanding the impact of compensation, work arrangements (remote vs. in-person), leadership support, and growth opportunities. Results will guide strategies to improve employee retention and satisfaction.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: All current entry and lower-level employees in the company. (additional option would be past employers who have left but will consider that out of scope for current research) 
+Sampling Frame: All entry and lower-level employees who have been with the company for at least three months.
+Sampling Units: Individual employees within the frame.
+
+Sampling Strategy: Simple random sampling of employees in the sampling frame to capture a diverse range of experiences. This will help ensure that the findings are representative of the current employee base, as their experiences directly affect retention.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. On a scale of 1 to 10, how satisfied are you with your current role in the company?
+2. What aspects of your role do you find most fulfilling? (Select all that apply)
+(Day-to-day Responsibilities, Work-life balance, Compensation, Team, Development opportunities, Other) 
+3. How satisfied are you with your current work arrangement (remote, hybrid, or in-person)?
+(Very satisfied, Somewhat satisfied, Neutral, Somewhat dissatisfied, Very dissatisfied) 
+4. To what extent do you feel your compensation reflects the work you do?
+(Very accurately, Somewhat accurately, Neutral, Somewhat inaccurately, Very inaccurately) 
+5. How likely are you to stay with the company for another year?
+(Very likely, Somewhat likely, Neutral, Somewhat unlikely, Very unlikely) 
+6. Which of the following would make you feel more satisfied and likely to stay with the company? (Select all that apply)
+(Higher salary, Additional benefits, Better remote or hybrid work options, More professional development opportunities, Stronger support from leadership, Improved company culture)
+7. Is there any additional feedback you’d like to share regarding compensation, work arrangements, or leadership? (Open-ended)
 ```
 
 ## Rubric
