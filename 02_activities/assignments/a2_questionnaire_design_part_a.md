@@ -29,7 +29,7 @@ Describe your target population, sampling frame, sampling units, and observation
 Target Population: All current entry and lower-level employees in the company. (additional option would be past employers who have left but will consider that out of scope for current research) 
 Sampling Frame: All entry and lower-level employees who have been with the company for at least three months.
 Sampling Units: Individual employees within the frame.
-
+Observation Units: individual responses provided by each sampled entry- and lower-level employee
 Sampling Strategy: Simple random sampling of employees in the sampling frame to capture a diverse range of experiences. This will help ensure that the findings are representative of the current employee base, as their experiences directly affect retention.
 ```
 
