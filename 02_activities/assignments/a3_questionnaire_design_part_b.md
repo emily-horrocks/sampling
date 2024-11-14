@@ -19,7 +19,7 @@ Open-ended Feedback (Q7): Remove the open-ended feedback question and ask them t
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-This survey couldn’t be fully replaced by an observational study. While things like attendance or turnover can hint at satisfaction, they don’t capture the full picture of how people feel about leadership, growth opportunities, or work environment. For that, we need direct responses from employees themselves.
+This survey couldn’t be fully replaced by an observational study. While things like attendance or turnover can hint at satisfaction, they don’t capture the full picture of how people feel about leadership, growth opportunities, or work environment. For that, we need direct responses from employees themselves..
     ```
 
 ## Why am I doing this assignment?
