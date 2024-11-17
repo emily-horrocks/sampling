@@ -6,7 +6,7 @@ Sources: - Canadian General Social Survey on Giving, Volunteering, and Participa
 
 |                                                       | Canadian General Social Survey on Giving, Volunteering, and Participating, 2018 (cycle 33) | Canadian Election Study Online Survey, 2019 | Trophic niche flexibility in Glossophaga soricina: how nectar seeker sneaks an insect snack |
 |----------------|:--------------------|----------------|---------------------|
-| Sample type                                           |                                                                                            |                                             |                                                                                             |
+| Sample type                                              |                                                                                            |                                             |                                                                                             |
 | Sample size                                           |                                                                                            |                                             |                                                                                             |
 | Target population                                     |                                                                                            |                                             |                                                                                             |
 | Sampling frame                                        |                                                                                            |                                             |                                                                                             |
@@ -20,6 +20,8 @@ Sources: - Canadian General Social Survey on Giving, Volunteering, and Participa
 | Limitations, known biases                             |                                                                                            |                                             |                                                                                             |
 | Citation                                              |                                                                                            |                                             |                                                                                             |
 | Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             |
+
+<img width="632" alt="Screenshot 2024-11-16 at 8 54 44 PM" src="https://github.com/user-attachments/assets/1099cbb3-40e8-48de-9472-4a906d0ee5c1">
 
 ## Criteria
 
